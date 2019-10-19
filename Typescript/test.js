@@ -1,1 +1,1 @@
-console.log("first commit from git2")
+console.log("editing commit from git1")
